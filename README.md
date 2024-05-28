@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../.github/example.png" alt="Fashion Project">
+  <img src="./FashionProject/assets/2024-05-2815-18-13-ezgif.com-video-to-gif-converter.gif" alt="Fashion Project">
 </p>
 
 # FashionProject
