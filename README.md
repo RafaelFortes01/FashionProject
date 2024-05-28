@@ -10,5 +10,5 @@ Projeto criado em HTML e CSS para praticar responsividade e FlexBox
 
 <!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,prisma,docker,postgres,vite,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
