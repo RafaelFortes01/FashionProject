@@ -6,7 +6,7 @@
 
 Projeto criado em HTML e CSS para praticar responsividade e FlexBox
 
-## Tech Stack
+## Tecnologias Utilizadas
 
 <!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
 
