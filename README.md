@@ -1,7 +1,14 @@
+<p align="center">
+  <img src="../.github/example.png" alt="Fashion Project">
+</p>
+
 # FashionProject
 
-Fashion Project criado para praticar HTML e CSS
+Projeto criado em HTML e CSS para praticar responsividade e FlexBox
 
-Projeto criado e finalizado dia 28/08/21 (antes da utilização do GitHub)
+## Tech Stack
 
-O principal objetivo era praticar os assuntos apresentados em um curso
+<!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,prisma,docker,postgres,vite,react,tailwind)](https://skillicons.dev)
+
